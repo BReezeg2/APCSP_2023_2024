@@ -3,13 +3,14 @@
 <BR>*Career and Technical Education Department*
 
 
-**AP Computer Science Principles 1 - TYS61XT**
-**CTE Computer Science Pathway - Course 3 of 8**
-**1 Credit - 54 Hours**
-<BR><BR>
+**AP Computer Science Principles 1 - TYS61XT
+<BR>CTE Computer Science Pathway - Course 3 of 8
+<BR>1 Credit - 54 Hours**
+<BR>
 
-**COURSE SYLLABUS**
-**Grade 10 - Fall 2023**
+<BR>**COURSE SYLLABUS**
+<BR>**Grade 10 - Fall 2023**
+
 # 
 
 **INSTRUCTOR:** Mr. Swotinsky
