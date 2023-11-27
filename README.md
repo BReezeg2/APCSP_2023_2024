@@ -1,7 +1,7 @@
 ## Note: This document is in progress.
 **Inwood Early College for Health and Information Technologies**
-*Career and Technical Education Department*
-<BR><BR>
+<BR>*Career and Technical Education Department*
+
 
 **AP Computer Science Principles 1 - TYS61XT**
 **CTE Computer Science Pathway - Course 3 of 8**
