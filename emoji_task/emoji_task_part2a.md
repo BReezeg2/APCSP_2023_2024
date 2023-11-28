@@ -17,8 +17,8 @@
 
 **DOCUMENT YOUR PROGRESS:**
 * Include a brief commit comment (e.g. "Uploaded first draft of code for emoji task.").
-* Additionally, include an extended description that addresses the following two questions:
-  * What specific progress have you made (e.g. "Progress: Created face with eyes, nose, and mouth.
-  * What changes (if any) have you made?
-  * What are the specific next steps you plan to work on (e.g. Next Steps  : ")
+* Additionally, include an extended description that addresses the following three questions:
+  * What specific progress have you made (e.g. "Progress: Created face with eyes, nose, and mouth.")
+  * What bugs (if any) have you fixed? (e.g. "Fixes: Corrected spacing error between eyes."
+  * What are the specific next steps you plan to work on (e.g. Next Steps : Begin adding colors.")
 * Finally, click: Commit changes.
