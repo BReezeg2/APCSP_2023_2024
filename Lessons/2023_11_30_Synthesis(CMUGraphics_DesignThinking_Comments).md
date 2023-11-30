@@ -1,7 +1,7 @@
 ## AP Computer Science Principles
 Thurssday, November 30th 2023<BR>
 
-### **Code Comments**
+### **Synthesizing CMU Graphics Coding Skills, Design Thinking, and Code Comments**
 
 **AIM:** In what ways can synthesis what we have learned about coding in CMU graphics, the design thinking process, and code comments, to complete our emoji projects?
 
