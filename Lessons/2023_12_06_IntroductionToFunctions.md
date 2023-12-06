@@ -14,6 +14,7 @@ Wednesday, December 6th 2023<BR>
 
 - [ ] I am able to define functions.
 - [ ] I am able to call functions.
+- [ ] I am able to leverage testing and test cases as a strategy to test my work and troubleshoot as needed.
         
 ##
 
