@@ -3,7 +3,7 @@
 # * AP CSP 2023-2024                                             *
 # * MR. SWOTINSKY                                                *
 # * PIXELATED PIC PROJECT - FILE BUILDER                         *
-# * VERSION 0 (November 3, 2023)                                 * 
+# * VERSION 1 (January 8, 2024)                                  * 
 # *                                                              *
 # * Instructions:                                                *
 # *                                                              *
