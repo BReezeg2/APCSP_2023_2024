@@ -68,7 +68,7 @@ for i in range(400):
     for j in range(400):
         reference_pixel_i_value = (i - i % 50)/50
         reference_pixel_j_value = (j - j % 50)/50
-        scale_px[i,j] = scale_px[reference_pixel_i_value, reference_pixel_j_value]        
+        scale_px[i,j] = px[reference_pixel_i_value, reference_pixel_j_value]        
 
 # Save image as 'my_pixelated_picn.tif".  If the file name already exists, increment n by 1 before saving.  Then, inform the user that a digital image of their pixelated pic has been generated and saved to their AP CSP directory, and thank them for using the pixelated pic project file builder:
 pic_index = 0
