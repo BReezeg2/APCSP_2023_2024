@@ -57,3 +57,21 @@ Generate a digital image of your pixelated pic.
 * Rename the digital version of your pixelated pic by appending "LastNameFirstInitial_" to the beginning of the filename.
 * Navigate to your Github Portfolio and upload the digital version of your pixelated pic. (Add File > Upload File)
 * Commit your file. **Remember to include an appropriate commit note.**
+
+
+# Part 5
+
+After you have completed your interactive image, write a reflection that addresses the following prompts:
+
+* Describe the pixelated pic project.  What is the purpose of the pixelated pic you created?
+* How did your work on the pixelated pic task contribute to your overall learning experience as a Computer Science major?
+* In what ways did you iteratively develop your pixelated pic over time?
+* Looking back, what might you have done differently?
+* If you were to further develop your pixelated pic, what would your next steps be?
+  
+**TO SHARE PART 5 OF THIS TASK:**
+* Navigate to your Github Portfolio.
+* Click Add File > Create New File.
+* Title your file "LastNameFirstInitial_PixelatedPicProject_Reflection.md"
+* Using markdown, code your responses to the prompts above.
+* Commit your file. **Remember to include an appropriate commit note.**
